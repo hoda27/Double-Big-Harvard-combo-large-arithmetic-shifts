@@ -1,2 +1,4 @@
 # Double-Big-Harvard-combo-large-arithmetic-shifts
-Processor simulation using Java
+A processor design and architecture simulation using Java.
+
+
